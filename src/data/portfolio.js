@@ -1,6 +1,6 @@
-import img1 from "../assets/1.png";
-import img2 from "../assets/2.png";
-import img3 from "../assets/3.png";
+import img1 from "../assets/1.jpg";
+import img2 from "../assets/2.jpg";
+import img3 from "../assets/3.jpg";
 
 export default [
   {
@@ -10,10 +10,10 @@ export default [
     link: "https://silly-sunflower-196687.netlify.app/",
   },
   {
-    title: "Prank website",
+    title: "Portfolio site",
     imgUrl: img2,
-    stack: ["HTML", "CSS", "JavaScript"],
-    link: "https://warm-scone-b33c01.netlify.app/",
+    stack: ['React.js','tailwind'],
+    link: "https://zingy-pastelito-8cb43a.netlify.app/",
   },
   {
     title: "Keeper.com todo list",
